@@ -1,0 +1,27 @@
+group	label	showSelected1
+1	Cluster 128: 450/2550 pixels shown, logFC -4.4 to 3.3, log10(p) 0.0 to 2.3	128
+1	Cluster 142: 149/173 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.3	142
+1	Cluster 167: 144/144 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.3	167
+1	Cluster 225: 367/1324 pixels shown, logFC -4.4 to 4.2, log10(p) 0.0 to 2.3	225
+1	Cluster 259: 47/857 pixels shown, logFC -4.2 to 3.9, log10(p) 0.0 to 2.0	259
+1	Cluster 275: 3/135 pixels shown, logFC -3.1 to 2.7, log10(p) 0.0 to 1.0	275
+1	Cluster 366: 122/368 pixels shown, logFC -3.1 to 3.9, log10(p) 0.0 to 1.7	366
+1	Cluster 367: 4/345 pixels shown, logFC -4.2 to 3.9, log10(p) 0.0 to 2.0	367
+1	Cluster 383: 145/189 pixels shown, logFC -3.1 to 3.9, log10(p) 0.0 to 1.7	383
+1	Cluster 478: 1/35 pixels shown, logFC -3.5 to 0.1, log10(p) 0.0 to 1.3	478
+1	Cluster 496: 84/129 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.3	496
+1	Cluster 522: 48/109 pixels shown, logFC -3.5 to 3.3, log10(p) 0.0 to 1.3	522
+1	Cluster 765: 242/501 pixels shown, logFC -2.6 to 3.9, log10(p) 0.0 to 1.7	765
+1	Cluster 843: 326/912 pixels shown, logFC -3.1 to 4.2, log10(p) 0.0 to 2.0	843
+1	Cluster 1148: 34/41 pixels shown, logFC -1.8 to 3.3, log10(p) 0.0 to 1.1	1148
+1	Cluster 1298: 4/4 pixels shown, logFC 2.0 to 2.7, log10(p) 0.5 to 0.8	1298
+1	Cluster 1337: 14/83 pixels shown, logFC -3.5 to 2.0, log10(p) 0.0 to 1.2	1337
+1	Cluster 1386: 7/7 pixels shown, logFC -3.1 to -1.8, log10(p) 0.4 to 1.0	1386
+1	Cluster 1426: 20/20 pixels shown, logFC -2.6 to 2.0, log10(p) 0.1 to 0.7	1426
+1	Cluster 1446: 5/5 pixels shown, logFC -2.6 to -1.8, log10(p) 0.4 to 0.7	1446
+1	Cluster 1476: 7/7 pixels shown, logFC -2.6 to -1.8, log10(p) 0.4 to 0.7	1476
+1	Cluster 1754: 8/8 pixels shown, logFC 0.1 to 4.2, log10(p) 0.0 to 2.0	1754
+1	Cluster 1832: 4/4 pixels shown, logFC -2.6 to -1.8, log10(p) 0.4 to 0.7	1832
+1	Cluster 1996: 9/9 pixels shown, logFC -1.8 to -1.8, log10(p) 0.4 to 0.4	1996
+1	Cluster 2030: 13/13 pixels shown, logFC -2.6 to 0.4, log10(p) 0.0 to 0.8	2030
+1	Cluster 2033: 5/5 pixels shown, logFC -3.1 to -1.2, log10(p) 0.4 to 1.0	2033
